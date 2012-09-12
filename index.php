@@ -30,7 +30,7 @@
                 }
                 else
                 {
-                    echo "<h2>Welcome to Widget Corp.</h2>";
+                    echo "<h2>Welcome to Apparatus Corp.</h2>";
                 }
                 ?>
                <br/>

@@ -1,6 +1,6 @@
         </div>
         <div id="footer">
-            <h1>Copyright 2007, Widget Corp</h1>
+            <h1>Copyright 2007, Apparatus Corp</h1>
         </div>
     </body>
 </html>
