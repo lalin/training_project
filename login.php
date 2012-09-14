@@ -10,14 +10,14 @@
 
     <tr>
         <td id="navigation">
-            <a href="index.php">Return to public site</a>
+            <a href="index.php">"Return to public site"</a>
         </td>
         <td id="page">
             <h2>Staff Login</h2>
             <?php
             if (isset($_GET["logout"]) && $_GET["logout"]==1)
             {
-                echo "<p>You are now logged out.</p>";
+                echo "<p>You are now logged out!</p>";
             }
             ?>
             <?php echo login(); ?>
