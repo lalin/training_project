@@ -31,7 +31,7 @@
                 else
                 {
                     echo "<h2>Welcome to Apparatus Corp. :P</h2>";
-                    echo "<h1>Formerly Widget Corp.</h1>";
+                    echo "<p>Formerly Widget Corp.</p>";
                 }
                 ?>
                <br/>
