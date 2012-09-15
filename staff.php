@@ -14,7 +14,7 @@
             <ul>
                 <li><a href="content.php">Manage Website Content :D</a></li>
                 <li><a href="new_user.php">Add Staff User :)</a></li>
-                <li><a href="logout.php">Logout :(</a></li>
+                <li><a href="logout.php">Logout :S</a></li>
                 <p>Contact us.</p>
 
             </ul>
