@@ -32,6 +32,7 @@
                 {
                     echo "<h2>Welcome to Apparatus Corp. :P</h2>";
                     echo "<p>Formerly Widget Corp!</p>";
+                    echo "<p>NOW TRACKED BY .Git in Netbeans!</p>";
                 }
                 ?>
                <br/>
